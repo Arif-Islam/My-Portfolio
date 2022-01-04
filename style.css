@@ -22,7 +22,7 @@ h1{
 }
 
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
 
 .link-button{
@@ -77,7 +77,7 @@ h2{
 
 #full-stack-exp{
     border-left: 7px solid;
-    border-image: linear-gradient(salmon, tomato);
+    border-image: linear-gradient(purple, tomato);
     border-image-slice: 1;
 }
 
